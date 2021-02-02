@@ -18,7 +18,7 @@ The baseline model would be to use **simple summary statistics** to create predi
 ## III. Data
 The data was collected from the WHO and the UN website and is available on [Kaggle](https://www.kaggle.com/kumarajarshi/life-expectancy-who) (`Life_expectancy_data.csv`). The dataset consists of 22 columns and 2,938 rows. Each row refers to a country, and each column refers to one country level health related or economic features. The health related features include `life expectancy, adult mortality, infant deaths, alcohol drinking, hepatitis B, measles, BMI, HIV/AIDS`, etc. The economic features include `development status, percentage expenditure, GDP, population, schooling`, etc.
 
-## Possible Findings and Implications
+## IV. Possible Findings and Implications
 With the dataset, we can explore the following problems and learn insights from them.
 
 - The impact of schooling on life expectancy. It can motivate governments, the UN, and related stakeholders to implement education-related policies and measures.
